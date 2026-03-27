@@ -9,63 +9,68 @@
 
 ## 👨‍💻 About Me
 
-Hi! I’m Lucas Guinalia Ruy, a Senior Frontend Engineer passionate about building scalable, high-performance apps with **React + TypeScript**. With over 9 years of experience, I specialize in:
+Hi! I'm Lucas Guinalia Ruy, a Senior Frontend Engineer with 9+ years of experience building scalable, high-performance applications with **React + TypeScript**.
 
-- **Microfrontends** & modular architectures (FSD)
-- **Design Systems** & component libraries
-- **Monorepos** & scalable codebases
-- **Performance optimization** & automation (CI/CD, testing)
-- **Mentoring tech teams** and driving best practices
+I specialize in microfrontend architectures, design systems, and monorepos — and I thrive in complex, large-scale environments. Currently acting as a technical reference for **15+ teams simultaneously**, leading frontend architecture decisions through ADRs and RFCs, and maintaining systems with **40+ remote microfrontends** in production.
 
-I thrive in complex environments, leading technical initiatives and enabling teams to ship faster and with more quality.
+My work spans critical products — from a payment checkout processing **~R$ 390M/month** at PagSeguro PagBank, to strategic banking portals at GFT Technologies.
+
+I'm passionate about turning architectural complexity into scalable, maintainable solutions — and about enabling teams to ship faster and with higher quality.
 
 ---
 
 ## 🚀 Technologies & Skills
 
-**Frontend:**  
-React, Next.js, TypeScript, JavaScript (ES6+), Redux, Zustand, React Query, React Hook Form + Zod
+**Frontend:**
+React, Next.js (SSR, SSG, ISR), TypeScript, JavaScript (ES6+), Redux, Zustand, React Query, React Hook Form, Zod, Astro.js
 
-**Architecture & Tooling:**  
+**Architecture & Tooling:**
 Module Federation, Microfrontends, Design Systems, Storybook, Webpack, Vite, RSPack, Rollup, TurboRepo, Monorepos, Feature-Sliced Design (FSD)
 
-**Testing & Quality:**  
-Jest, React Testing Library (RTL), Cypress, ESLint, Prettier, SonarCloud, DangerJS
+**Testing & Quality:**
+Jest, React Testing Library (RTL), Cypress, ESLint, Prettier, SonarCloud, DangerJS, Testing Pyramid, Triple A pattern
 
-**DevOps & Infra:**  
-CI/CD (GitHub Actions, Azure DevOps, GitLab CI), npm packages, Docker, Monitoring (New Relic, Splunk, Sentry)
+**DevOps & Infra:**
+CI/CD (GitHub Actions, Azure DevOps, GitLab CI), npm packages, Docker, New Relic, Splunk, Sentry
 
-**Also:**  
-Node.js, NestJS, Express, REST APIs, Agile/Scrum, technical documentation
+**Backend (support):**
+Node.js, NestJS, Express, BFFs, REST APIs
+
+**Also:**
+ADRs, RFCs, Technical Documentation, Agile/Scrum, Mentoring
 
 ---
 
 ## 🏆 Career Highlights
 
-- **GFT Technologies** (2025–now): Leading legacy migration to microfrontends, creating reusable libraries, and evolving frontend standards across squads.
-- **Arcotech** (2021–2025): Staff Engineer, architecting monorepo strategy, building internal tools for monitoring and microfrontends communication, technical mentorship.
-- **PagSeguro PagBank** (2020–2021): Developed payment experiences (PIX), improved reliability and performance, integrated BFFs with observability.
-- **Leroy Merlin** (2019–2020): Revamped home & loyalty pages, increased conversion, delivered cross-device interfaces.
-- **Enext / NewBlue / Freelance** (2015–2018): From entry-level to mid-level, handled e-commerce, dynamic UIs, and animation-heavy landing pages.
+- **GFT Technologies** (2025–now): Technical reference for 15+ teams in a large-scale bank. Responsible for a backoffice host app with 40+ remote MFEs and a merchant/partner portal with 10+ remote MFEs — both using Module Federation + Vite. Leading ADRs, RFCs, private npm packages and boilerplates to eliminate code duplication across the organization.
+
+- **Arcotech** (2021–2025): Defined the monorepo strategy with Turborepo, built the internal MFE communication library adopted by 6 teams (12+ frontend devs), created New Relic integration standards and synthetic monitors with real-time Slack alerts, and mentored engineers across all levels.
+
+- **PagSeguro PagBank** (2020–2021): Developed the SSR-based payment checkout (Next.js) responsible for processing ~R$ 390M/month, with PIX support and multiple card brands. Built BFF endpoints and implemented observability with New Relic and Splunk.
+
+- **Leroy Merlin** (2019–2020): Revamped the homepage and implemented the loyalty program, increasing conversion and customer engagement across mobile and desktop.
+
+- **Enext / NewBlue / Freelance** (2015–2018): Grew from junior to mid-level in under a year. Built e-commerces, animation-heavy landing pages, and VTEX/Oracle Commerce Cloud solutions.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Evolving
 
-- Evolving English skills (Intermediate 🚀)
-- Advanced monitoring & observability in large-scale frontends
-- Deep dives into frontend architecture patterns and performance
+- English proficiency (intermediate, actively improving)
+- Advanced observability and monitoring in large-scale frontend systems
+- Frontend architecture patterns, performance optimization and platform thinking
 
 ---
 
-## 💬 Let’s Connect!
+## 💬 Let's Connect!
 
-- 📧 lucasplet@gmail.com
+- 📧 devlucasruy@gmail.com
 - [LinkedIn](https://linkedin.com/in/lucasruy)
 - [GitHub](https://github.com/lucasruy)
 
 ---
 
 <p align="center">
-  <sub>Always seeking clarity, performance, and sustainable solutions.<br/>Let’s build something amazing!</sub>
+  <sub>Always seeking clarity, performance, and sustainable solutions.<br/>Let's build something amazing!</sub>
 </p>
