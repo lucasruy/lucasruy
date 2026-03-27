@@ -43,7 +43,7 @@ ADRs, RFCs, Technical Documentation, Agile/Scrum, Mentoring
 
 ## 🏆 Career Highlights
 
-- **GFT Technologies** (2025–now): Technical reference for 15+ teams in a large-scale bank. Responsible for a backoffice host app with 40+ remote MFEs and a merchant/partner portal with 10+ remote MFEs — both using Module Federation + Vite. Leading ADRs, RFCs, private npm packages and boilerplates to eliminate code duplication across the organization.
+- **GFT Technologies** (2025–now): Technical reference for 15+ teams in a large-scale bank. Responsible for a backoffice host app with 40+ remote MFEs and a merchant/partner portal with 10+ remote MFEs — both using Module Federation + Vite. Leading ADRs, RFCs, private npm packages and boilerplates to eliminate code duplication across the organization. Also driving AI-powered Developer Experience initiatives: built custom GitHub Copilot agents with skills, templates and scripts to standardize access to frontend patterns and reduce recurring questions about MFE integrations — and developed an MCP Server that queries the Design System's Storybook via Playwright, enabling developers to get component guidance directly from the AI assistant.
 
 - **Arcotech** (2021–2025): Defined the monorepo strategy with Turborepo, built the internal MFE communication library adopted by 6 teams (12+ frontend devs), created New Relic integration standards and synthetic monitors with real-time Slack alerts, and mentored engineers across all levels.
 
